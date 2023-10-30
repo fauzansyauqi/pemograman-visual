@@ -1,4 +1,4 @@
-# Latihan 2 - Pemograman Visual ( Dekstop )
+#  Pemograman Visual 
 
 **Nama   : _fauzan syauqi_** <br/>
 **NIM    : 312110269** <br/>
